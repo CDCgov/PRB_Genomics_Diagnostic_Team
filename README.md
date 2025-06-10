@@ -1,8 +1,9 @@
 # CDC/NCEZID/DHCPP/PRB Genomics Diagnostic Team 
 
 <!-- Include the pipeline visualization graphic here -->
-![Pipeline Visualization](/team_logo.png)
-<img src="/team_logo.png" alt="Pipeline Visualization" width="200">
+<div align="center">
+  <img src="/team_logo.png" alt="Pipeline Visualization" width="500">
+</div>
 
 ## Overview
 
