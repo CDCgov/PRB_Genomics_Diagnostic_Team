@@ -1,5 +1,8 @@
 # CDC/NCEZID/DHCPP/PRB Genomics Diagnostic Team 
 
+<!-- Include the pipeline visualization graphic here -->
+<!-- ![Pipeline Visualization](/assets/) -->
+
 ## Overview
 
 This GitHub repository, CDC/NCEZID/DHCPP/PRB Genomics Diagnostic Team, serves as a centralized hub for the organization, adaptation, and archiving of tools developed by members of our team. Whether created individually or collaboratively, these tools are valuable assets, and this space ensures they are readily accessible and well-maintained.
