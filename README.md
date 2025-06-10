@@ -1,7 +1,7 @@
 # CDC/NCEZID/DHCPP/PRB Genomics Diagnostic Team 
 
 <!-- Include the pipeline visualization graphic here -->
-<!-- ![Pipeline Visualization](/assets/) -->
+![Pipeline Visualization](/team_logo.png)
 
 ## Overview
 
