@@ -1,3 +1,17 @@
+# CDC/NCEZID/DHCPP/PRB Genomics Diagnostic Team 
+
+## Overview
+
+This GitHub repository, CDC/NCEZID/DHCPP/PRB Genomics Diagnostic Team, serves as a centralized hub for the organization, adaptation, and archiving of tools developed by members of our team. Whether created individually or collaboratively, these tools are valuable assets, and this space ensures they are readily accessible and well-maintained.
+
+Our primary goals for this repository are to:
+
+1. Centralize Knowledge: Provide a single, easy-to-find location for all team-developed genomics diagnostic tools, reducing duplication of effort and ensuring everyone has access to the latest versions.
+2. Facilitate Adaptation: Encourage the reuse and modification of existing tools to fit new projects or specific needs, fostering efficiency and innovation within the team.
+3. Ensure Archival Integrity: Securely store historical versions of tools and their documentation, creating a reliable archive for future reference, auditing, and knowledge transfer.
+
+By using this repository, we aim to improve our team's collaborative workflow, standardize our tool development practices, and ultimately enhance our collective ability to conduct genomics diagnostics.
+
 # CDCgov GitHub Organization Open Source Project Template
 
 **Template for clearance: This project serves as a template to aid projects in starting up and moving through clearance procedures. To start, create a new repository and implement the required [open practices](open_practices.md), train on and agree to adhere to the organization's [rules of behavior](rules_of_behavior.md), and [send a request through the create repo form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) using language from this template as a Guide.**
@@ -17,9 +31,6 @@
 * [Contribution Notice](CONTRIBUTING.md)
 * [Code of Conduct](code-of-conduct.md)
 
-## Overview
-
-Describe the purpose of your project. Add additional sections as necessary to help collaborators and potential collaborators understand and use your project.
   
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
